@@ -7,23 +7,26 @@
 .container-main{
     width: 100vw;
     height: 100vh;
-    background-image: radial-gradient(circle, #afafaf, #a3a3a3, #989898, #8c8c8c, #818181, #727272, #636363, #555555, #404040, #2c2c2c, #1a1a1a, #000000);
+    background-image: radial-gradient(circle, #ffffff, #f7f7f7, #efefef, #e7e7e7, #dfdfdf, #d9d9d9, #d2d2d2, #cccccc, #c6c6c6, #bfbfbf, #b9b9b9, #b3b3b3);
 }
 
+/* --------------- Header --------------- */
+
 .header{
-    width: 100vw;
-    height: 20%;
-    border: 1px solid red;
+    background-color: #b3b3b38c;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
 }
 
 .container-logo{
-    width: 50%;
-    display: flex;
-    justify-content: center;
-    border: 1px solid blue;
+    width: 20%;
+    margin-left: 10%;
 }
 
 .container-logo img{
     width: 100%; /*---- Fazer a imagem se ajustar 100% na div que contém ela ----*/
-    border: 1px solid green;
 }
+
+/* --------------- Seção de vídeo --------------- */
+
