@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/*--- Telas iguais ou menores que 460 oixels ---*/
 @media(max-width: 460px){
-
+    
 }
