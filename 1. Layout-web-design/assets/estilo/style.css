@@ -6,43 +6,32 @@
 
 .angry-grid {
    display: grid; 
-
    grid-template-rows: 4rem auto 45px 1fr;
    grid-template-columns: auto 1fr;
-   
    gap: 3px;
    height: 100%;
 }
   
 .header{
-
    background-color: #2b4c81; 
    grid-row-start: 1;
    grid-column-start: 1;
-
    grid-row-end: 2;
    grid-column-end: 3;
-   
 }
 
 .video{
-
    background-color: #ACDEB5; 
    grid-row-start: 2;
    grid-column-start: 1;
-
    grid-row-end: 3;
    grid-column-end: 3;
-   
 }
 
 .galery{
-
    background-color: #765a77; 
    grid-row-start: 3;
    grid-column-start: 1;
-
    grid-row-end: 5;
    grid-column-end: 3;
-   
 }
