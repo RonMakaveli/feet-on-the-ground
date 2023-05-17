@@ -30,3 +30,8 @@
 
 /* --------------- Seção de vídeo --------------- */
 
+.section-video{
+    -webkit-box-shadow: 0px 0px 66px 11px rgba(0,0,0,0.56);
+    -moz-box-shadow: 0px 0px 66px 11px rgba(0,0,0,0.56);
+    box-shadow: 0px 0px 66px 11px rgba(0,0,0,0.56);
+}
