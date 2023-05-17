@@ -4,16 +4,20 @@
     box-sizing: border-box;
 }
 
-:root{
-    --border-red: 1px solid red;
-}
-
 .header{
-    width: 500px;
-    height: 500px;
+    width: 100vw;
+    height: 20%;
     border: 1px solid red;
 }
 
 .container-logo{
-    width: 100vw;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    border: 1px solid blue;
+}
+
+.container-logo img{
+    width: 30%;
+    border: 1px solid green;
 }
