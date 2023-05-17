@@ -12,10 +12,9 @@
    
    gap: 3px;
    height: 100%;
-   
 }
   
-#item-0 {
+.header{
 
    background-color: #2b4c81; 
    grid-row-start: 1;
@@ -25,7 +24,8 @@
    grid-column-end: 3;
    
 }
-#item-1 {
+
+.video{
 
    background-color: #ACDEB5; 
    grid-row-start: 2;
@@ -35,7 +35,8 @@
    grid-column-end: 3;
    
 }
-#item-2 {
+
+.galery{
 
    background-color: #765a77; 
    grid-row-start: 3;
