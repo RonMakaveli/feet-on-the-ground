@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+.container-main{
+    width: 100vw;
+    height: 100vh;
+    background-image: radial-gradient(circle, #afafaf, #a3a3a3, #989898, #8c8c8c, #818181, #727272, #636363, #555555, #404040, #2c2c2c, #1a1a1a, #000000);
+}
+
 .header{
     width: 100vw;
     height: 20%;
@@ -18,6 +24,6 @@
 }
 
 .container-logo img{
-    width: 30%;
+    width: 100%; /*---- Fazer a imagem se ajustar 100% na div que contém ela ----*/
     border: 1px solid green;
 }
