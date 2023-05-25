@@ -20,6 +20,7 @@ Os seguintes requisitos foram definidos
 - [x] Apresentação dos resultados.
 - [ ] Tratamento dos dados usando PHP.
 - [ ] Criação de uma interface responsiva.
+- [ ] Escolha entre tema claro e escuro.
 
 <h4>
  Status do Projeto: Em construção :construction:
