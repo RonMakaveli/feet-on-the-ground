@@ -14,7 +14,7 @@ function calcOperation(operation){
     resultado = n1 * n2;
     }
 
-    console.log(resultado);
+    document.getElementById('result').innerText = "Resultado: " + resultado;
 }
 
 
