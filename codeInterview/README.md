@@ -27,6 +27,8 @@ Os seguintes requisitos foram definidos
  Status do Projeto: Em construção :construction:
 </h4>
 
-<p>Projeto proposto durante uma entrevista na <a href="https://www.hostinger.com.br/tutoriais/erro-404">não sei de devo dizer isso</a></p>
-<p>Entretando o caso é que mesmo sabendo uma forma de fazer o projeto, ou conhecendo a estrutura para tal, o nervosismo atrapalhou meu raciocínio.</p>
-<p>Sendo assim resolvi deixar o registro dessa falha, ou desse aprendizado e aprender algo que nunca passei <strong>codar sob pressão.</strong></p> 
+<p>
+   Projeto proposto durante uma entrevista na <a href="https://www.hostinger.com.br/tutoriais/erro-404">não sei de devo dizer isso</a><br>
+   Entretando o caso é que mesmo sabendo uma forma de fazer o projeto, ou conhecendo a estrutura para tal, o nervosismo atrapalhou meu raciocínio.<br>
+   Sendo assim resolvi deixar o registro dessa falha, ou desse aprendizado e aprender algo que nunca passei <strong>codar sob pressão.</strong>
+</p> 
