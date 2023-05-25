@@ -19,6 +19,7 @@ Os seguintes requisitos foram definidos
 - [x] Realização das operações aritméticas básicas.
 - [x] Apresentação dos resultados.
 - [ ] Tratamento dos dados usando PHP.
+- [ ] Criação de uma interface responsiva.
 
 <h4>
  Status do Projeto: Em construção :construction:
