@@ -1,2 +1,2 @@
-var n1 = document.getElementById('firstNumber');
-var n2 = document.getElementById('secondNumber');
+var n1 = parsedocument.getElementById('firstNumber').value;;
+var n2 = document.getElementById('secondNumber').value;;
