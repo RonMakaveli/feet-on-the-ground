@@ -15,4 +15,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
  Status do Projeto: Em construção :construction:
 </h4>
 
-<p>Projeto proposto durante uma entrevista <a href="https://www.hostinger.com.br/tutoriais/erro-404">não sei de devo dizer isso</a></p>
+<p>Projeto proposto durante uma entrevista na <a href="https://www.hostinger.com.br/tutoriais/erro-404">não sei de devo dizer isso</a></p>
