@@ -1,6 +1,6 @@
 function calcOperation(operation){
-    var n1 = document.getElementById('firstNumber').value;
-    var n2 = document.getElementById('secondNumber').value;
+    var n1 = parseFloat(document.getElementById('firstNumber').value);
+    var n2 = parseFloat(document.getElementById('secondNumber').value);
 
     var resultado;
 
