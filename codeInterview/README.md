@@ -10,6 +10,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [PHP](https://www.php.net/)
+hr
+### Proposta
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
 
 <h4>
  Status do Projeto: Em construção :construction:
