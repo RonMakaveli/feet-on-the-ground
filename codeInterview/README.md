@@ -10,13 +10,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [PHP](https://www.php.net/)
-<hr>
 
 ### Proposta
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
+
+Os seguintes requisitos foram definidos
+
+- [x] Dois inputs, cada input recebe um valor.
+- [x] Realização das operações aritméticas básicas.
+- [x] Apresentação dos resultados.
+- [ ] Tratamento dos dados usando PHP.
 
 <h4>
  Status do Projeto: Em construção :construction:
