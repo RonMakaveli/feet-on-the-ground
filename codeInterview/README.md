@@ -1,4 +1,4 @@
-<h1> capture-page </h1>
+<h1> calculo </h1>
 
 uma página que recebe dois valores através de dois inputs e retorna o calculo
 
