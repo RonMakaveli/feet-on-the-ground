@@ -14,13 +14,12 @@ body{
 }
 
 .container{
-    background: rgba( 255, 255, 255, 0.1 );
-    backdrop-filter: blur( 16px );
-    -webkit-backdrop-filter: blur( 16px );
+    background: rgba( 255, 255, 255, 0.05 );
+    backdrop-filter: blur( 50px );
+    -webkit-backdrop-filter: blur( 50px );
     border-radius: 5px;
-    border: 1px solid rgba( 255, 255, 255, 0.18 );
     width: 30%;
-    height: auto;
+    height: 60%;
     padding: 30px;
     display: flex;
     flex-direction: column;

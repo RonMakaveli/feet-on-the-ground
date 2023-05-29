@@ -17,7 +17,23 @@ function calcOperation(operation){
     document.getElementById('resultado').innerText = "Resultado: " + resultado;
 }
 
-
+function adicionarDiv() {
+    var div = document.createElement("div");
+    div.className = "thirdContent";
+  
+    var input = document.createElement("input");
+    input.type = "number";
+    input.id = "thirdNumber";
+    input.name = "thirdNumber";
+    input.placeholder = "Insira o terceiro número";
+    input.required = true;
+  
+    div.appendChild(input);
+  
+    var container = document.getElementById("container");
+  
+    container.appendChild(div);
+  }
 
 
 

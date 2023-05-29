@@ -10,16 +10,17 @@
 <body>
     <section class="container">
         <div class="firstContent">
-            <input type="number" id="firstNumber" name="firstNumber" placeholder="Insira o primeiro numero">
+            <input type="number" id="firstNumber" name="firstNumber" placeholder="Insira o primeiro numero" required>
         </div>
         <div class="secondContent">
-            <input type="number" id="firstNumber" name="firstNumber" placeholder="Insira o segundo numero">
+            <input type="number" id="secondNumber" name="secondNumber" placeholder="Insira o segundo numero" required>
         </div> 
-        <button type="button" id="adicionar" onclick="calcOperation('adicionar')">adição</button>
-        <button type="button" id="subtrair" onclick="calcOperation('subtrair')">Subtrair</button>
-        <button type="button" id="dividir" onclick="calcOperation('dividir')">Dividir</button>
-        <button type="button" id="multiplicar" onclick="calcOperation('multiplicar')">Multiplicar</button>
-    
+        <div class="grid-buttons">
+            <button type="button" id="adicionar" onclick="calcOperation('adicionar')">adição</button>
+            <button type="button" id="subtrair" onclick="calcOperation('subtrair')">Subtrair</button>
+            <button type="button" id="dividir" onclick="calcOperation('dividir')">Dividir</button>
+            <button type="button" id="multiplicar" onclick="calcOperation('multiplicar')">Multiplicar</button>
+        </div>
         <div id="resultado"></div>
     </section>
     <script src="calculo.js"></script>
