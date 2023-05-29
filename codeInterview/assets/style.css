@@ -10,7 +10,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(to top, #212121, #252525, #2a2a2a, #2e2e2e, #333333, #373737, #3b3b3b, #3f3f3f, #444444, #494949, #4e4e4e, #535353);
+    background-image: url());
 }
 
 .container{
