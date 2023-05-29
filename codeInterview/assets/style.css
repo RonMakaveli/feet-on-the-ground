@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe:ital@0;1&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -40,23 +42,23 @@ body::before{
 }
 
 .title{
-
+    color: #fff;
 }
 
 ::-webkit-input-placeholder {
     color: #ffffff96;
     font-family: Courier New, monospace;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
   }
 
 input[type=number]{
-    font-family: "Open Sans", Calibri, Arial, sans-serif;
-    font-size: 16px;
-    font-weight: 400;
-    padding: 10px 20px;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    padding: 10px 10px;
     position: relative;
     text-align: center;
     width: 290px;
-    height:28px;
     border: none;
     border-radius: 5px;
     margin-bottom: 5px;
