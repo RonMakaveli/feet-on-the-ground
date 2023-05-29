@@ -89,3 +89,10 @@ button:hover{
     background: rgba(255, 255, 255, 0.199);
     color: rgb(255, 255, 255);
 }
+
+.resultado{
+    color: #fff;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    letter-spacing: 2px;
+    font-size: 30px;
+}
