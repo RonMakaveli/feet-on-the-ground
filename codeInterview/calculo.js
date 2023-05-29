@@ -33,7 +33,9 @@ function adicionarDiv() {
     var container = document.getElementById("container");
   
     container.appendChild(div);
-  }
+}
 
+var botaoInserir = document.getElementById("botaoInserir");
+botaoInserir.addEventListener("click", adicionarDiv);
 
 
