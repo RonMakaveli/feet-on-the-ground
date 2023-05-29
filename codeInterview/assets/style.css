@@ -81,13 +81,39 @@ button{
     border: none;
     transition: ease-in-out .2s;
     font-family: 'Alumni Sans Pinstripe', sans-serif;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 button:hover{
     cursor: pointer;
     background: rgba(255, 255, 255, 0.199);
     color: rgb(255, 255, 255);
+}
+
+.grid-buttons {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 15px;
+}
+
+#adicionar {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+#subtrair {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+#dividir {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+#multiplicar {
+    grid-column: 2;
+    grid-row: 2;
 }
 
 .resultado{
