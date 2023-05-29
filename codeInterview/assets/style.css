@@ -43,6 +43,9 @@ body::before{
 
 .title{
     color: #fff;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    letter-spacing: 2px;
+    font-size: 24px;
 }
 
 ::-webkit-input-placeholder {
@@ -66,4 +69,21 @@ input[type=number]{
     backdrop-filter: blur(10px);
     color: rgb(255, 255, 255);
     transition: color 0.3s ease-out;
+}
+
+button{
+    padding: 15px;
+    background: rgba(255,255,255,0.05);
+    backdrop-filter: blur(10px);
+    color: rgba(255, 255, 255, 0.658);
+    border: none;
+    transition: ease-in-out .2s;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 18px;
+}
+
+button:hover{
+    cursor: pointer;
+    background: rgba(255, 255, 255, 0.199);
+    color: rgb(255, 255, 255);
 }
