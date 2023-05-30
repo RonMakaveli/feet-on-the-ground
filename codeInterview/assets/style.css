@@ -31,7 +31,7 @@ body::before{
     backdrop-filter: blur(50px);
     border: 1px solid rgba(255,255,255,0);
     border-radius: 5px;
-    width: 30%;
+    width: 350px;
     height: 70%;
     padding: 30px;
     display: flex;
@@ -63,7 +63,7 @@ input[type=number]{
     padding: 10px 10px;
     position: relative;
     text-align: center;
-    width: 290px;
+    width: 210px;
     border: none;
     border-radius: 5px;
     margin-bottom: 5px;
