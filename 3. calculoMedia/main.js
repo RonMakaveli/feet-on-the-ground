@@ -8,5 +8,5 @@ function calcularNota() {
   const resultadoMedia = isNaN(notas.reduce((total, nota) => total + nota, 0) / notas.length)
     ? "Por favor, insira números válidos."
     : "Resultado: " + (notas.reduce((total, nota) => total + nota, 0) / notas.length);
-  document.getElementById('resultadoMedia').innerText = resultadoMedia;
+  document.getElementById('resultadoMedia').innerText = resultadoMedia;rfsduhdoj
 }
