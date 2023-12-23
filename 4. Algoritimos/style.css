@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+h1,
+h2 {
+  color: white;
+  font-family: Lato;
+}
+
+div, table, span {
+  color: white;
+}
+
+table{
+  border: solid 1px white;
+}
